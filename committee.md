@@ -8,7 +8,7 @@ Cambridgeshire RAYNET is led by a committee of volunteers, overseeing the day-to
 
 <div class="container">
 	<div class="row">
-		<div class="col d-flex align-items-start">
+		<div class="col d-flex flex-wrap align-items-start">
 			<div class="rounded-4 bg-light p-4 m-4">
 				<h3>Controller</h3>
 				<p>Marek G0MKS</p>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: About Cambridgeshire RAYNET
 ---
 RAYNET provides voluntary communications services to a wide range of organisations.
 
